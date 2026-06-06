@@ -43,7 +43,6 @@ class _ShopDetailsScreenState extends State<ShopDetailsScreen> {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            // --- 1. Profile Section ---
             Row(
               children: [
                 ClipRRect(
